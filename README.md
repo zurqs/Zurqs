@@ -17,5 +17,3 @@ my primary role : coder who works alone and likes to create items
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zurqs&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
